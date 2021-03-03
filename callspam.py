@@ -1,7 +1,5 @@
 import win32api, win32con
 from time import sleep as wait
-import ctypes
-ctypes.windll.kernel32.SetConsoleTitleW("Discord Spam Caller By Zexor321")
 
 print('''
 ██▄   ▄█    ▄▄▄▄▄   ▄█▄    ████▄ █▄▄▄▄ ██▄          ▄▄▄▄▄   █ ▄▄  ██   █▀▄▀█     ▄█▄    ██   █    █     ▄███▄   █▄▄▄▄ 
