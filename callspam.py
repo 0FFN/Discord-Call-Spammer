@@ -8,7 +8,8 @@ print('''
 █  █  ▐█  ▀▄▄▄▄▀    █▄  ▄▀ ▀████ █  █  █  █       ▀▄▄▄▄▀    █     █  █ █   █     █▄  ▄▀ █  █ ███▄ ███▄  █▄   ▄▀ █  █  
 ███▀   ▐            ▀███▀          █   ███▀                  █       █    █      ▀███▀     █     ▀    ▀ ▀███▀     █   
                                   ▀                           ▀     █    ▀                █                      ▀    
-By 0WNED for Windows.
+By arc for Windows.
+You must be using the Discord APP (NOT on a browser), be in fullscreen, and go to DM's with the target.
 ''')
 
 wait(0.25)
