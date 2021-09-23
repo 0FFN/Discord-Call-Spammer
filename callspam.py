@@ -1,6 +1,8 @@
 import pydirectinput
 import pyautogui
 from time import sleep as wait
+from os import system
+system("title "+"Arc's Discord Spam Caller")
 
 print('''
 ██▄   ▄█    ▄▄▄▄▄   ▄█▄    ████▄ █▄▄▄▄ ██▄          ▄▄▄▄▄   █ ▄▄  ██   █▀▄▀█     ▄█▄    ██   █    █     ▄███▄   █▄▄▄▄ 
